@@ -7,11 +7,11 @@
 - **Aluno**: Clara Teodósio de Morais
 
 ## Checklist
-- [ ] 1. Fork desse repositório
-- [ ] 2. Colocar o nome nesse arquivo `README.md`
-- [ ] 3. Criar um projeto next
-- [ ] 4. Adicionar a lib [shadcnui](https://ui.shadcn.com/)
-- [ ] 5. Commit com mensagem "criado e configurado app inicial"
+- [x] 1. Fork desse repositório
+- [x] 2. Colocar o nome nesse arquivo `README.md`
+- [x] 3. Criar um projeto next
+- [x] 4. Adicionar a lib [shadcnui](https://ui.shadcn.com/)
+- [x] 5. Commit com mensagem "criado e configurado app inicial"
 - [ ] 6. Criar uma página inicial com link para a lista de produtos `/produtos` consumindo dados de https://dummyjson.com/docs/products
 - [ ] 7. Commit com a mensagem "criado a página com lista de produtos"
 - [ ] 8. Criar uma 2a página para atualizar produtos `/produtos/[id]` enviando atualização para a [api](https://dummyjson.com/docs/products#products-update)
